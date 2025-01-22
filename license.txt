@@ -19,6 +19,7 @@ Leia atentamente este Contrato de Licença de Usuário Final ("Contrato") antes 
 4. Isenção de Responsabilidade
 
    O uso de versões snapshot não é recomendado para usuários que busquem estabilidade total do sistema. O Usuário compreende e aceita que os desenvolvedores não se responsabilizam por qualquer erro, falha, instabilidade ou qualquer outro problema decorrente do uso dessas versões. O uso de versões snapshot é uma escolha do usuário, e a TechNext não assume nenhuma responsabilidade por consequências decorrentes desse uso.
+   O uso de versões não oficiais ou não distribuídas pela TechNext também se torna isenta de nossa responsabilidade por qualquer que seja o dano causado.
 
 5. Propriedade Intelectual
 

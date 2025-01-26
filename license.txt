@@ -2,44 +2,44 @@ Contrato de Licença de Usuário Final (EULA)
 
 Última atualização: 22 de janeiro de 2025
 
-Leia atentamente este Contrato de Licença de Usuário Final ("Contrato") antes de instalar ou usar o aplicativo VShelf ("Aplicativo") fornecido pela TechNext. Ao instalar ou utilizar o Aplicativo, você concorda em cumprir os termos e condições deste Contrato.
+Leia atentamente este Contrato de Licença de Usuário Final ("Contrato") antes de instalar ou usar o aplicativo VShelf ("Aplicativo") fornecido pela Technext. Ao instalar ou utilizar o Aplicativo, você concorda em cumprir os termos e condições deste Contrato.
 
 1. Concessão de Licença
 
-   A TechNext concede ao usuário uma licença não exclusiva, intransferível e revogável para usar o Aplicativo, exclusivamente para fins pessoais ou comerciais internos, conforme descrito neste Contrato.
+   A Technext concede ao usuário uma licença não exclusiva, intransferível e revogável para usar o Aplicativo, exclusivamente para fins pessoais ou comerciais internos, conforme descrito neste Contrato.
 
 2. Coleta de Informações
 
-   Ao usar o Aplicativo, você concorda que a TechNext pode coletar e utilizar determinadas informações relacionadas ao uso do Aplicativo, com o objetivo de melhorar a experiência e a funcionalidade do aplicativo. Isso pode incluir, mas não se limita a, dados sobre o desempenho, erros e interações do usuário com o Aplicativo.
+   Ao usar o Aplicativo, você concorda que a Technext pode coletar e utilizar determinadas informações relacionadas ao uso do Aplicativo, com o objetivo de melhorar a experiência e a funcionalidade do aplicativo. Isso pode incluir, mas não se limita a, dados sobre o desempenho, erros e interações do usuário com o Aplicativo.
 
 3. Uso de Versão Snapshot
 
-   O Aplicativo pode oferecer versões "snapshot", que são versões de pré-lançamento ou em desenvolvimento. Essas versões podem conter erros, falhas ou instabilidade. Você reconhece que o uso de uma versão snapshot é por sua conta e risco. A TechNext não se responsabiliza por qualquer dano ou perda de dados decorrente do uso dessas versões.
+   O Aplicativo pode oferecer versões "snapshot", que são versões de pré-lançamento ou em desenvolvimento. Essas versões podem conter erros, falhas ou instabilidade. Você reconhece que o uso de uma versão snapshot é por sua conta e risco. A Technext não se responsabiliza por qualquer dano ou perda de dados decorrente do uso dessas versões.
 
 4. Isenção de Responsabilidade
 
-   O uso de versões snapshot não é recomendado para usuários que busquem estabilidade total do sistema. O Usuário compreende e aceita que os desenvolvedores não se responsabilizam por qualquer erro, falha, instabilidade ou qualquer outro problema decorrente do uso dessas versões. O uso de versões snapshot é uma escolha do usuário, e a TechNext não assume nenhuma responsabilidade por consequências decorrentes desse uso.
-   O uso de versões não oficiais ou não distribuídas pela TechNext também se torna isenta de nossa responsabilidade por qualquer que seja o dano causado.
+   O uso de versões snapshot não é recomendado para usuários que busquem estabilidade total do sistema. O Usuário compreende e aceita que os desenvolvedores não se responsabilizam por qualquer erro, falha, instabilidade ou qualquer outro problema decorrente do uso dessas versões. O uso de versões snapshot é uma escolha do usuário, e a Technext não assume nenhuma responsabilidade por consequências decorrentes desse uso.
+   O uso de versões não oficiais ou não distribuídas pela Technext também se torna isenta de nossa responsabilidade por qualquer que seja o dano causado.
 
 5. Propriedade Intelectual
 
-   Todos os direitos de propriedade intelectual relacionados ao Aplicativo, incluindo, mas não se limitando a, códigos-fonte, design, gráficos e marcas registradas, são de propriedade exclusiva da TechNext. Este Contrato não concede ao usuário nenhum direito de propriedade intelectual sobre o Aplicativo.
+   Todos os direitos de propriedade intelectual relacionados ao Aplicativo, incluindo, mas não se limitando a, códigos-fonte, design, gráficos e marcas registradas, são de propriedade exclusiva da Technext. Este Contrato não concede ao usuário nenhum direito de propriedade intelectual sobre o Aplicativo.
 
 6. Limitação de Responsabilidade
 
-   Na máxima extensão permitida por lei, a TechNext não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais ou consequenciais que possam ocorrer durante o uso do Aplicativo, incluindo danos por perda de dados, falhas de sistema ou qualquer outro prejuízo decorrente de erros ou falhas do Aplicativo, independentemente de a TechNext ter sido ou não avisada da possibilidade desses danos.
+   Na máxima extensão permitida por lei, a Technext não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais ou consequenciais que possam ocorrer durante o uso do Aplicativo, incluindo danos por perda de dados, falhas de sistema ou qualquer outro prejuízo decorrente de erros ou falhas do Aplicativo, independentemente de a Technext ter sido ou não avisada da possibilidade desses danos.
 
 7. Alterações no Contrato
 
-   A TechNext reserva-se o direito de modificar este Contrato a qualquer momento. Alterações serão informadas ao usuário e passarão a vigorar a partir da data de publicação ou de aceitação do usuário.
+   A Technext reserva-se o direito de modificar este Contrato a qualquer momento. Alterações serão informadas ao usuário e passarão a vigorar a partir da data de publicação ou de aceitação do usuário.
 
 8. Rescisão
 
-   Este Contrato entra em vigor na data de sua aceitação pelo usuário e pode ser rescindido a qualquer momento, por qualquer das partes. O usuário pode desinstalar o Aplicativo para encerrar o uso. A TechNext poderá rescindir este Contrato se o usuário violar qualquer de seus termos.
+   Este Contrato entra em vigor na data de sua aceitação pelo usuário e pode ser rescindido a qualquer momento, por qualquer das partes. O usuário pode desinstalar o Aplicativo para encerrar o uso. A Technext poderá rescindir este Contrato se o usuário violar qualquer de seus termos.
 
 9. Lei Aplicável
 
-   Este Contrato será regido e interpretado de acordo com as leis do país onde a TechNext está sediada, sem levar em conta os princípios de conflito de leis.
+   Este Contrato será regido e interpretado de acordo com as leis do país onde a Technext está sediada, sem levar em conta os princípios de conflito de leis.
 
 10. Aceitação
 

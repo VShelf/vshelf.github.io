@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Apreveite nossa plataforma! Em breve terá mais funcionabilidades.",
+        "type": "normal"
+    },
+    {
+        "title": "Clique mais para acessar as configurações",
+        "type": "link",
+        "link": "./pages/app/config.html"
+    },
+    {
+        "title": "Aviso: Sites como Netflix, Amazon Prime, etc... Não possuem suporte para rodar no navegador interno.",
+        "type": "normal"
+    }
+]

@@ -1,0 +1,36 @@
+.window {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 3;
+    margin: 2rem;
+}
+
+summary {
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+button {
+    background: #ccc;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+button:hover {
+    background-color: #b1b1b1;
+}
+
+.download-area-btn {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn-download {
+    margin-right: 15px;
+}
+
+.btn-download:hover {
+    background-color: #b1b1b1;
+    transition: .5s;
+}

@@ -7,30 +7,7 @@
     <title>VShelf</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <!-- <script src="https://cdn.tailwindcss.com"></script> -->
-    <style>
-        .window {
-            font-family: 'Courier New', Courier, monospace;
-            margin-left: 3;
-            margin: 2rem;
-        }
-
-        summary {
-            cursor: pointer;
-            margin-bottom: 15px;
-        }
-
-        button {
-            background: #ccc;
-            border: none;
-            padding: 10px;
-            cursor: pointer;
-            transition: .5s;
-        }
-
-        button:hover {
-            background-color: #b1b1b1;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -41,17 +18,25 @@
             <hr>
 
             <div>
-                <div>
+                <div class="download-area">
                     <h2>Área de download:</h2>
-                    <a href="https://github.com/VShelf/app/releases/download/v1.2.5/VShelf.Setup.1.2.5.exe">
-                        <button>Baixar Para Windows</button>
-                    </a>
-                    <a href="https://github.com/VShelf/app/releases/download/v1.2.5-mac/VShelf-1.2.5.dmg">
-                        <button>Baixar Para macOS</button>
-                    </a>
-                    <a href="license.pdf" download="license.pdf">
-                        <button>Baixar EULA</button>
-                    </a>
+                    <div class="download-area-btn">
+                        <div class="btn-download">
+                            <a href="https://github.com/VShelf/app/releases/download/v1.2.5/VShelf.Setup.1.2.5.exe">
+                                <button>Baixar Para Windows</button>
+                            </a>
+                        </div>
+                        <div class="btn-download">
+                            <a href="https://github.com/VShelf/app/releases/download/v1.2.5-mac/VShelf-1.2.5.dmg">
+                                <button>Baixar Para macOS</button>
+                            </a>
+                        </div>
+                        <div class="btn-download">
+                            <a href="license.pdf" download="license.pdf">
+                                <button>Baixar EULA</button>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
 
